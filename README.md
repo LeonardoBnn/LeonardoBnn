@@ -34,14 +34,6 @@ Au sein de la DSI, je participe à la garantie de la qualité logicielle sur un 
 
 ---
 
-## Mon Activité
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoBnn&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBnn&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## Discutons ensemble !
 * **LinkedIn :** [Mon Profil LinkedIn](https://linkedin.com/in/leonardo-bonino-b71078244)
 * **Email :** [boninoleonardo@gmail.com](mailto:boninoleonardo@gmail.com)
